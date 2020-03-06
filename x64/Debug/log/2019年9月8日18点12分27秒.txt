@@ -1,0 +1,56 @@
+2019年9月8日18点12分28秒
+ 平台 NVIDIA CUDA
+ 开发商 NVIDIA Corporation
+ OpenCL版本 OpenCL 1.2 CUDA 10.1.152
+ Profile FULL_PROFILE
+ 扩展 cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_fp64 cl_khr_byte_addressable_store cl_khr_icd cl_khr_gl_sharing cl_nv_compiler_options cl_nv_device_attribute_query cl_nv_pragma_unroll cl_nv_d3d10_sharing cl_khr_d3d10_sharing cl_nv_d3d11_sharing cl_nv_copy_opts cl_nv_create_buffer
+
+2019年9月8日18点12分28秒
+	         名称 GeForce GT 650M
+	         版本 OpenCL 1.2 CUDA
+	         驱动版本 425.25
+	         OpenCl版本 OpenCL C 1.2 
+	         开发商 NVIDIA Corporation
+	         开发商ID 4318
+	         Profile FULL_PROFILE
+	         计算单元 2
+	         最大维度 3
+	         工作组最大工作项 1024
+	         每个维度最大工作项  ={ 1024 1024 64 }  
+	         扩展 cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_fp64 cl_khr_byte_addressable_store cl_khr_icd cl_khr_gl_sharing cl_nv_compiler_options cl_nv_device_attribute_query cl_nv_pragma_unroll cl_nv_d3d10_sharing cl_khr_d3d10_sharing cl_nv_d3d11_sharing cl_nv_copy_opts cl_nv_create_buffer
+
+2019年9月8日18点12分28秒
+ 平台 Intel(R) OpenCL
+ 开发商 Intel(R) Corporation
+ OpenCL版本 OpenCL 1.2 
+ Profile FULL_PROFILE
+ 扩展 cl_intel_dx9_media_sharing cl_khr_byte_addressable_store cl_khr_d3d11_sharing cl_khr_dx9_media_sharing cl_khr_gl_sharing cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_icd cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics
+
+2019年9月8日18点12分28秒
+	         名称 Intel(R) HD Graphics 4000
+	         版本 OpenCL 1.2 
+	         驱动版本 10.18.10.5069
+	         OpenCl版本 OpenCL C 1.2 
+	         开发商 Intel(R) Corporation
+	         开发商ID 32902
+	         Profile FULL_PROFILE
+	         计算单元 16
+	         最大维度 3
+	         工作组最大工作项 512
+	         每个维度最大工作项  ={ 512 512 512 }  
+	         扩展 cl_intel_d3d11_nv12_media_sharing cl_intel_dx9_media_sharing cl_khr_3d_image_writes cl_khr_byte_addressable_store cl_khr_d3d10_sharing cl_khr_d3d11_sharing cl_khr_depth_images cl_khr_dx9_media_sharing cl_khr_gl_depth_images cl_khr_gl_event cl_khr_gl_msaa_sharing cl_khr_gl_sharing cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_icd cl_khr_image2d_from_buffer cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_intel_accelerator cl_intel_motion_estimation 
+
+2019年9月8日18点12分28秒
+	         名称       Intel(R) Core(TM) i7-3610QM CPU @ 2.30GHz
+	         版本 OpenCL 1.2 (Build 76427)
+	         驱动版本 3.0.1.10891
+	         OpenCl版本 OpenCL C 1.2 
+	         开发商 Intel(R) Corporation
+	         开发商ID 32902
+	         Profile FULL_PROFILE
+	         计算单元 8
+	         最大维度 3
+	         工作组最大工作项 1024
+	         每个维度最大工作项  ={ 1024 1024 1024 }  
+	         扩展 cl_khr_fp64 cl_khr_icd cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_byte_addressable_store cl_intel_printf cl_ext_device_fission cl_intel_exec_by_local_thread cl_khr_gl_sharing cl_intel_dx9_media_sharing cl_khr_dx9_media_sharing cl_khr_d3d11_sharing 
+
